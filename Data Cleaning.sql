@@ -5,7 +5,7 @@ FROM healthcare_data
 WHERE name IS NULL OR billing_amount IS NULL OR medical_condition IS NULL;
 
 SELECT name, date_of_admission, hospital, COUNT(*) as count
-FROM your_table
+FROM healthcare_data
 GROUP BY name, date_of_admission, hospital
 HAVING COUNT(*) > 1;
 
