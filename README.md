@@ -1,12 +1,15 @@
 # Healthcare Data Analysis
 
-Healthcare Data, is a synthetic healthcare dataset used for practical and diverse data for educational and research purposes.
+This healthcare dataset is a synthetic healthcare dataset used for practical and diverse data for educational and research purposes.
 This dataset includes important patient demographics, administrative details, and clinical information. The initiative of this project is to enhance hospital operational performance and patient care quality by analyzing condition specific admission patterns, treatment efficiency, and provider specialization. 
 
 Insights and recommendations are provided on the following key areas:
 
 - Condition specific admissions:
-Plan staffing and resources based on the most common conditions treated at each hospital to improve patient care.
+
+Most medical conditions show roughly around 3,000 admissions per admission type, with diabetes and hypertension being the most common. Urgent admissions are more frequent for diabetes while hypertension cases tend to be scheduled as planned visits.
+Recommendation: 
+Align hospital staffing and resource planning with the most commonly treated conditions at each facility. Prioritizing readiness for urgent diabetic cases and pre scheduling hypertension care can enhance patient flow and care efficiency.
 
 - Treatment Efficiency:
 Review and improve treatment processes at hospitals where patients stay longer to reduce length of stay and costs.
