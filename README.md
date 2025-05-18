@@ -1,6 +1,6 @@
 # Healthcare Data Analysis
 
-This healthcare dataset is a synthetic healthcare dataset used for practical and diverse data for educational and research purposes.
+This healthcare dataset used in this analysis is a simulated representation of hospital data, created for educational and analytical purposes.
 This dataset includes important patient demographics, administrative details, and clinical information. The initiative of this project is to enhance hospital operational performance and patient care quality by analyzing condition specific admission patterns, treatment efficiency, and provider specialization. 
 
 Insights and recommendations are provided on the following key areas:
