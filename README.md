@@ -12,7 +12,10 @@ Recommendation:
 Align hospital staffing and resource planning with the most commonly treated conditions at each facility. Prioritizing readiness for urgent diabetic cases and pre scheduling hypertension care can enhance patient flow and care efficiency.
 
 - Treatment Efficiency:
-Review and improve treatment processes at hospitals where patients stay longer to reduce length of stay and costs.
+
+The average length of stay across medical conditions is around 15 days, with patient volumes varying by condition. Some hospitals and doctors have shorter discharge times, while no same day discharges were observed.                                      
+Recommendation:
+Target reducing the 15 day average stay, adopt efficient hospital and doctor practices, and verify data to indetify potential for faster discharges.
 
 - Provider Specialization:
 Balance doctor workloads and offer specialized training to maintain high quality care.
