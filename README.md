@@ -1,21 +1,19 @@
 # Healthcare Data Analysis
 
 This healthcare dataset used in this analysis is a simulated representation of hospital data, created for educational and analytical purposes.
-This dataset includes important patient demographics, administrative details, and clinical information. The initiative of this project is to enhance hospital operational performance and patient care quality by analyzing condition specific admission patterns, treatment efficiency, and provider specialization. 
+It includes key patient demographics, administrative details, and clinical information. The initiative of this project is to enhance hospital operational performance and patient care quality by analyzing condition specific admission patterns, treatment efficiency, and provider specialization. 
 
 Insights and recommendations are provided on the following key areas:
 
 - Condition specific admissions:
 
-Most medical conditions show roughly around 3,000 admissions per admission type, with diabetes and hypertension being the most common. Urgent admissions are more frequent for diabetes while hypertension cases tend to be scheduled as planned visits.
+Most medical conditions have approximately 3,000 admissions per admission type, with diabetes and hypertension being the most common. Urgent admissions are more frequent for diabetes while hypertension cases tend to be scheduled as planned visits.
 Recommendation: 
 Align hospital staffing and resource planning with the most commonly treated conditions at each facility. Prioritizing readiness for urgent diabetic cases and pre scheduling hypertension care can enhance patient flow and care efficiency.
 
 - Treatment Efficiency:
-
-The average length of stay across medical conditions is around 15 days, with patient volumes varying by condition. Some hospitals and doctors have shorter discharge times, while no same day discharges were observed.                                      
-Recommendation:
-Target reducing the 15 day average stay, adopt efficient hospital and doctor practices, and verify data to indetify potential for faster discharges.
+The average length of stay across conditions is around 15 days, though patient volume varies by diagnosis. No same-day discharges were observed, and some hospitals and doctors discharge patients faster than others.
+Recommendation: Aim to reduce the 15-day average stay by identifying and replicating best practices from efficient hospitals and providers. Validate data accuracy and explore opportunities for shorter, safe discharge times.                     
 
 - Provider Specialization:
 Balance doctor workloads and offer specialized training to maintain high quality care.
