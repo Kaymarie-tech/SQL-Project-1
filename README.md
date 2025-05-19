@@ -27,9 +27,9 @@ Certain insurance providers, like aetna, show higher refferal volumes to specifi
 Recommendation: Hospitals should strengthen collaborations with high referral insurance providers to streamline patient intake, enhance care coordination, and improve operational efficiency.
 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here LINK.
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/Kaymarie-tech/SQL-Project-1/blob/main/Data%20Cleaning.sql).
 
-Targeted SQL queries regarding various business questions can be found [here](https://github.com/Kaymarie-tech/SQL-Project-1/blob/main/Analysis.sql)
+Targeted SQL queries regarding various business questions can be found [here](https://github.com/Kaymarie-tech/SQL-Project-1/blob/main/Analysis.sql).
 
 An interactive Tableau dashboard can be downloaded here LINK.
 
