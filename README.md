@@ -22,7 +22,9 @@ Room occupnacy averages between 1 and 2 patients, with average patient stays per
 Recommendation: Maintain balanced room assignments and monitor usage trends to avoid overcrowding. Identify best practices from highly utilized rooms and apply them to less used ones. Optimize room turnover and scheduling to improve patient flow and overall hospital efficiency. 
 
 - Patient Referral:
-Develop referral guidelines to send patients to hospitals with the best expertise for their specific conditions.
+
+Certain insurance providers, like aetna, show higher refferal volumes to specific hospitals, such as LLC Smith with 11 patients, suggesting established refferal networks.
+Recommendation: Hospitals should strengthen collaborations with high referral insurance providers to streamline patient intake, enhance care coordination, and improve operational efficiency.
 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here LINK.
