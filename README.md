@@ -1,7 +1,7 @@
 # Healthcare Data Analysis
 
 This healthcare dataset used in this analysis is a simulated representation of hospital data, created for educational and analytical purposes.
-It includes key patient demographics, administrative details, and clinical information. The initiative of this project is to enhance hospital operational performance and patient care quality by analyzing condition specific admission patterns, treatment efficiency, and provider specialization. 
+It includes key patient demographics, administrative details, and clinical information. The initiative of this project is to enhance hospital operational performance, patient care quality and treatment efficiency.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -13,14 +13,13 @@ Align hospital staffing and resource planning with the most commonly treated con
 
 - Treatment Efficiency:
 
-The average length of stay across conditions is around 15 days, though patient volume varies by diagnosis. No same-day discharges were observed, and some hospitals and doctors discharge patients faster than others.
+The average length of stay across conditions is around 15 days, though patient volume varies by diagnosis. No same-day discharges were observed, and some hospitals and doctors discharge patients faster than others.                         
 Recommendation: Aim to reduce the 15-day average stay by identifying and replicating best practices from efficient hospitals and providers. Validate data accuracy and explore opportunities for shorter, safe discharge times.                     
 
-- Provider Specialization:
-Balance doctor workloads and offer specialized training to maintain high quality care.
-
 - Resource Utilization:
-Use data driven scheduling to make better use of hospital rooms and staff, avoiding overcrowding.
+
+Room occupnacy averages between 1 and 2 patients, with average patient stays per room ranging from 12.56 to 17.72 dyas. Usage varies across rooms, with room 393 being used 181 times and room 398 only 109 times, indicating uneven utilization over time.              
+Recommendation: Maintain balanced room assignments and monitor usage trends to avoid overcrowding. Identify best practices from highly utilized rooms and apply them to less used ones. Optimize room turnover and scheduling to improve patient flow and overall hospital efficiency. 
 
 - Patient Referral:
 Develop referral guidelines to send patients to hospitals with the best expertise for their specific conditions.
