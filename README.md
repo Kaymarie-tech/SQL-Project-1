@@ -18,12 +18,12 @@ Recommendation: Aim to reduce the 15-day average stay by identifying and replica
 
 - Resource Utilization:
 
-Room occupnacy averages between 1 and 2 patients, with average patient stays per room ranging from 12.56 to 17.72 dyas. Usage varies across rooms, with room 393 being used 181 times and room 398 only 109 times, indicating uneven utilization over time.              
+Room occupancy averages between 1 and 2 patients, with average patient stays per room ranging from 12.56 to 17.72 days. Usage varies across rooms, with room 393 being used 181 times and room 398 only 109 times, indicating uneven utilization over time.              
 Recommendation: Maintain balanced room assignments and monitor usage trends to avoid overcrowding. Identify best practices from highly utilized rooms and apply them to less used ones. Optimize room turnover and scheduling to improve patient flow and overall hospital efficiency. 
 
 - Patient Referral:
 
-Certain insurance providers, like aetna, show higher refferal volumes to specific hospitals, such as LLC Smith with 11 patients, suggesting established refferal networks.
+Certain insurance providers, like aetna, show higher referral volumes to specific hospitals, such as LLC Smith with 11 patients, suggesting established referral networks.                                                                                        
 Recommendation: Hospitals should strengthen collaborations with high referral insurance providers to streamline patient intake, enhance care coordination, and improve operational efficiency.
 
 
